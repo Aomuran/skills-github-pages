@@ -22,7 +22,7 @@ body {
   z-index: -10;
   top: 0;
   left: 0;
-  background-image: url(https://bing.img.run/rand.php);
+  background-image: url(https://api.xsot.cn/bing?jump=true);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
